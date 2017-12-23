@@ -9,4 +9,5 @@ RUN apt-get update && \
                     net-tools \
                     vifm \
                     libx11-6 \
+                    tcpdump \
                     hexedit -y --no-install-recommends

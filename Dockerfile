@@ -5,6 +5,7 @@ RUN apt-get update && \
                     vim \
                     apt-transport-https \
                     netcat \
+                    socat \
                     iputils-ping \
                     net-tools \
                     vifm \

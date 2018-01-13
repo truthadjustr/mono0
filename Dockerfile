@@ -12,4 +12,5 @@ RUN apt-get update && \
                     libx11-6 \
                     tcpdump \
                     git \
+                    xmlstarlet \
                     hexedit -y --no-install-recommends
